@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi, I'm Guzel 👋
 
-<!--
-**guzel/guzel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+PHP developer. Work with WordPress, Woocommerce. 
+I build plugins and custom themes — mostly
+for small teams who need something specific that no off-the-shelf plugin does.
 
-Here are some ideas to get you started:
+I'm comfortable in codebases I didn't write — debugging inherited plugins,
+tracing unexpected hook behaviour, working out what a previous developer
+intended. I'll usually come back with a few options and the trade-offs,
+rather than one fix presented as the only choice.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Working with:** PHP · WordPress · Woocommerce · MySQL · JavaScript · Docker · CSS
+
+---
+
+### Reach me
+
+[LinkedIn](https://www.linkedin.com/in/guzel-mitroshina/) · guze4ka@gmail.com
